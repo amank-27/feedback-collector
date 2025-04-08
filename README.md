@@ -1,6 +1,6 @@
 # Feedback Collector Application
 
-## Live Link- 
+## Live Link- https://feedback-collector-ten.vercel.app/
 
 This is a simple **Feedback Collector** application where users can submit their feedback, including their name, email, and a message. The feedback entries are stored in a MongoDB database, and the app includes an admin view to display all the submitted feedback.
 
