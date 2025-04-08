@@ -16,7 +16,8 @@ const Main = () => {
     localStorage.setItem('theme', newTheme); // Save the theme preference to localStorage
   };
 
-  // Apply the theme to the root element
+  
+  
   useEffect(() => {
     if (theme === 'dark') {
       document.documentElement.classList.add('dark');
