@@ -54,7 +54,7 @@ function App() {
   };
 
   return (
-    <div className={`min-h-screen flex flex-col items-center justify-center p-6 ${theme === 'dark' ? 'bg-gray-900 text-white' : 'bg-white text-black'}`}>
+    <div className={`min-h-screen flex flex-col items-center justify-center p-6 ${theme === 'dark' ? 'bg-gray-900 text-black' : 'bg-white text-black'}`}>
       <h1 className="text-3xl font-bold mb-4">Feedback Collector</h1>
 
       {/* Theme Toggle Button */}
