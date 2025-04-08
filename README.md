@@ -1,6 +1,14 @@
 # Feedback Collector Application
 
+## Live Link- 
+
 This is a simple **Feedback Collector** application where users can submit their feedback, including their name, email, and a message. The feedback entries are stored in a MongoDB database, and the app includes an admin view to display all the submitted feedback.
+
+## Backend is deployed on render- this is the github repo
+## https://github.com/amank-27/feedbackcollector-backend
+
+## Fronten is deployed on vercel-this is the github repo
+## https://github.com/amank-27/feedback-collector
 
 ## Technologies Used
 
@@ -27,6 +35,9 @@ This is a simple **Feedback Collector** application where users can submit their
 - **Dark/Light Theme Toggle**: Users can toggle between dark and light themes for a better user experience.
 
 ### Frontend Setup
+
+- ## First npm install
+ ## second npm run dev
 
 
 
